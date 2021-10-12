@@ -14,6 +14,6 @@ We all write sentences and commit to see what happens.
 not me tryna break it...
 
 ## Chapter 5 
-not us do you understand?
+what happened next
 
 ## Chapter 6
