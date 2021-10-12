@@ -8,7 +8,7 @@ This is chapter 1... once upon a time...
 Stuff...
 
 ## Chapter 3
-dfgtyhujio
+We all write sentences and commit to see what happens.
 
 ## Chapter 4
 not me tryna break it...
@@ -17,4 +17,3 @@ not me tryna break it...
 not ceilidh either
 
 ## Chapter 6
-rtgyhuji
